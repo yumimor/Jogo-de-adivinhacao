@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 600px;
+    background-image: url("https://www.mulherportuguesa.com/wp-content/uploads/2016/07/Adivinhar-o-futuro.jpg");
+    background-repeat: no-repeat;
+    background-color: #000000;
+    background-size: cover;
+    background-position: center bottom;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+}
+
+.page-subtitle {
+    color: #ffffff;
+    margin-top: 16px;
+}
+
+.footer {
+    text-align: center;
+    color: #000000;
+    background-color: darkgray;
+}
+
+h2 {
+    color: #ffffff;
+}
